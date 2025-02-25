@@ -13,9 +13,13 @@ Your feedback is welcome at [Issue Tracker](https://github.com/SMPTE/st2136-1/is
 
 The following elements are made available for a public review period ending no earlier than 2025-05-31, and no later than 2025-05-31:
 
-* [{prose element}]({link to prose element})
-* [{element #1}]({link to element #1})
-* ...
+* <a href="https://github.com/SMPTE/st2136-1/blob/main/10E-CD-ST-2136-1-Common-LUT-Format-2025-02-06.pdf">Common LUT Format</a>
+* <a href="https://github.com/SMPTE/st2136-1/blob/main/st2136-1a-202x.xsd">st2136-1a-202x.xsd</a>
+* <a href="https://github.com/SMPTE/st2136-1/blob/main/st2136-1b.clf">st2136-1b.clf</a>
+* <a href="https://github.com/SMPTE/st2136-1/blob/main/st2136-1c.clf">st2136-1c.clf</a>
+* <a href="https://github.com/SMPTE/st2136-1/blob/main/st2136-1d.clf">st2136-1d.clf</a>
+* <a href="https://github.com/SMPTE/st2136-1/blob/main/st2136-1e.clf">st2136-1e.clf</a>
+
 
 ## Details
 
