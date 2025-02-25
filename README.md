@@ -11,9 +11,9 @@ Your feedback is welcome at [Issue Tracker](https://github.com/SMPTE/st2136-1/is
 
 ## Public Committee Draft (PCD) Notice
 
-The following elements are made available for a public review period ending no earlier than 2025-05-31, and no later than 2025-05-31:
+The following elements are made available for a public review period ending no earlier than 2025-02-25, and no later than 2025-06-30:
 
-* <a href="https://github.com/SMPTE/st2136-1/blob/main/10E-CD-ST-2136-1-Common-LUT-Format-2025-02-06.pdf">Common LUT Format</a>
+* [{10E-CD-ST-2136-1-Common-LUT-Format-2025-02-06.pdf}][(https://github.com/SMPTE/st2136-1/blob/main/10E-CD-ST-2136-1-Common-LUT-Format-2025-02-06.pdf)]
 * <a href="https://github.com/SMPTE/st2136-1/blob/main/st2136-1a-202x.xsd">st2136-1a-202x.xsd</a>
 * <a href="https://github.com/SMPTE/st2136-1/blob/main/st2136-1b.clf">st2136-1b.clf</a>
 * <a href="https://github.com/SMPTE/st2136-1/blob/main/st2136-1c.clf">st2136-1c.clf</a>
