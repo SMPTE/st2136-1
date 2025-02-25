@@ -28,6 +28,6 @@ SMPTE ST 2136-1 “Common LUT Format” defines an XML file format for the inter
 SMPTE ST 2136-1 is based on an earlier specification published by the Academy of Motion Picture Arts and Sciences [1] and is intended to be backwards compatible.
 Existing CLF instances based on [1] can be converted into the SMPTE-compliant CLF format by only changing or adding the default namespace xmlns="http://www.smpte-ra.org/ns/2136-1/2024"
 
-A Public Committee Draft of SMPTE ST 2136-1 and sample CLF files are being provided for review in this repository for three months from 25 February 2025. Developers are encouraged to implement the design and provide feedback via GitHub to improve the document and to increase interoperability between implementations.
+A Public Committee Draft of SMPTE ST 2136-1 and sample CLF files are being provided for review in this repository for a review period ending on 31 May 2025. Developers are encouraged to implement the design and provide feedback via GitHub to improve the document and to increase interoperability between implementations.
 
 [1] <a href="https://docs.acescentral.com/specifications/clf/">https://docs.acescentral.com/specifications/clf/</a>
