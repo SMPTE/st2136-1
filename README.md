@@ -1,4 +1,4 @@
-# Public CD of SMPTE ST 2136-1
+# SMPTE ST 2136-1
 
 ## General
 
@@ -9,6 +9,7 @@ Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONF
 
 Your feedback is welcome at [Issue Tracker](https://github.com/SMPTE/st2136-1/issues) or at [10e-chair@smpte.org](mailto:10e-chair@smpte.org).
 
+<!-- PCD-INFO:START -->
 ## Public Committee Draft (PCD) Notice
 
 The following elements are made available for a public review period ending no later than 2025-05-31:
@@ -31,3 +32,5 @@ Existing CLF instances based on [1] can be converted into the SMPTE-compliant CL
 A Public Committee Draft of SMPTE ST 2136-1 and sample CLF files are being provided for review in this repository for a review period ending on 31 May 2025. Developers are encouraged to implement the design and provide feedback via GitHub to improve the document and to increase interoperability between implementations.
 
 [1] <a href="https://docs.acescentral.com/specifications/clf/">https://docs.acescentral.com/specifications/clf/</a>
+
+<!-- PCD-INFO:END -->
