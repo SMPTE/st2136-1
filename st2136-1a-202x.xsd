@@ -94,7 +94,7 @@
 </xs:simpleType>
 
 <!--  Data Type: VideoSignalRangeType  -->
-<!--  Restrictions can be defined for CLF Profiles -->
+<!--  Restrictions can be defined for CLF Profiles  -->
 <xs:simpleType name="VideoSignalRangeType">
   <xs:restriction base="xs:string"/>
 </xs:simpleType>
@@ -175,7 +175,7 @@
     <xs:element ref="ds:Signature" minOccurs="0"/>
   </xs:sequence>
   <xs:attribute name="id" type="xs:string" use="optional"/>
-  <xs:attribute name="compCLFversion" type="xs:string" use="optional"/><!-- deprecated, CLF version is signalled by the schama URI -->
+  <xs:attribute name="compCLFversion" type="xs:string" use="optional"/><!-- deprecated, CLF version is signalled by the schema URI -->
   <xs:attribute name="name" type="xs:string" use="optional"/>
   <xs:attribute name="inverseOf" type="xs:string" use="optional"/>
   <xs:anyAttribute processContents="lax"/>
@@ -196,7 +196,7 @@
   <xs:anyAttribute processContents="lax"/>
 </xs:complexType>
 
-<!-- Elements which may be used in the Info element -->
+<!-- Examples of elements which may be used in the Info element -->
 <xs:element name="Profile" type="xs:string"/>
 <xs:element name="ACEStransformID" type="clf:URNType"/>
 <xs:element name="AppRelease" type="dcml:UserTextType"/>
@@ -303,7 +303,7 @@
   </xs:complexContent>
 </xs:complexType>
 <xs:complexType name="LogParamsType">
-  <xs:attribute name="base" type="xs:float" use="optional" default="10"/>
+  <xs:attribute name="base" type="xs:float" use="optional" default="2"/>
   <xs:attribute name="logSideSlope" type="xs:float" use="optional" default="1.0"/>
   <xs:attribute name="logSideOffset" type="xs:float" use="optional" default="0.0"/>
   <xs:attribute name="linSideSlope" type="xs:float" use="optional" default="1.0"/>
